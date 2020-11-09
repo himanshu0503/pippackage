@@ -1,2 +1,4 @@
+import logging
+
 def hello_world_method():
-    print('Hello World.')
+    logging.info("Hello World.")
